@@ -32,7 +32,7 @@ variable rmquser {
 }
 
 variable rmqpass {
-  default = "Gr33n@pple123456"
+  default = "Gr33n@pple123456" 
 }
 
 variable dbuser {
