@@ -1,4 +1,4 @@
-module "vpc" {
+module "vpc" {  # registry/terraform/io
   source = "terraform-aws-modules/vpc/aws"
 
   name = var.VPC_NAME
